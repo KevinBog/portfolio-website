@@ -1,0 +1,26 @@
+.project-logo {
+  height: 150px; /* stel alle logo's gelijk */
+  object-fit: contain; /* houdt de verhoudingen goed */
+  display: block;
+  margin-top: 10px;
+}
+
+.project h3 {
+  min-height: 2.5rem; /* zorg dat alle titels dezelfde hoogte hebben */
+}
+
+
+.project-btn {
+  width: 100%;       /* button vult de kolom */
+  min-height: 250px; /* zelfde hoogte voor alle buttons */
+  border-radius: 5px;
+  padding: 1rem;     /* ruimte binnen de button */
+}
+
+.project-img {
+  max-height: 120px; /* afbeeldingen even groot */
+  object-fit: contain; 
+}
+.project-title {
+  min-height: 2.5rem; /* titels op gelijke hoogte */
+}

@@ -1,0 +1,7 @@
+cd "C:\Users\kevin\Documents\Scalda werk\Portfolio\1. Beroepsspecifieke onderdelen\B1-K1\B1-K1-W3\Sprint 1\Programmeren\Portfolio website versie 2 Bootstrap editie"
+
+py -m http.server 8080
+
+ipconfig om te kijken wat het ip address is
+
+dan in browser: http://172.25.16.218:8080/   (met juiste ip address)
